@@ -128,6 +128,7 @@ a GNU/GPL CMS/Framework available from `typo3.org
    DebuggingTypo3/Index
    HandlingAPatch/Index
    HandlingIssues/TicketWorkflow
+   CoreMergers/Index
 
 
 .. references
